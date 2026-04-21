@@ -117,7 +117,9 @@ Installed using Ninite:
 |--------|-------------|
 | 📄 project-report.pdf | Full detailed documentation |
 | 📄 README.md | Project overview and summary |
-[Project PDF](./Full_Project_Report.pdf)
+
+[View Full Project PDF](./Azure Cloud-Based Windows 11 VM Deployment and IT Administration_Project_BikashRaya.pdf)
+
 ---
 
 ## 🎯 Key Takeaway
