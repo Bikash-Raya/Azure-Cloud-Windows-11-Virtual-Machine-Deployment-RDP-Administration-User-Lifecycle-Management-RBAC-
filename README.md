@@ -115,7 +115,7 @@ Installed using Ninite:
 
 | Folder | Description |
 |--------|-------------|
-| 📄 [project-report.pdf](./Azure-VM-Deployment-Administration-BikashRaya.pdf) | Full detailed documentation |
+| 📄 [project-report.pdf](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-/blob/main/Azure-VM-Deployment-Administration-BikashRaya.pdf.pdf) | Full detailed documentation |
 | 📄 README.md | Project overview and summary |
 
 
