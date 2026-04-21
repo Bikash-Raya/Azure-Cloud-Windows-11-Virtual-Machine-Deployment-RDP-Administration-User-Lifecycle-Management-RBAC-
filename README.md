@@ -115,10 +115,10 @@ Installed using Ninite:
 
 | Folder | Description |
 |--------|-------------|
-| 📄 project-report.pdf | Full detailed documentation |
+| 📄 [project-report.pdf](./Azure-VM-Deployment-Administration-BikashRaya.pdf) | Full detailed documentation |
 | 📄 README.md | Project overview and summary |
 
-[View Full Project PDF](./Azure Cloud-Based Windows 11 VM Deployment and IT Administration_Project_BikashRaya.pdf)
+
 
 ---
 
