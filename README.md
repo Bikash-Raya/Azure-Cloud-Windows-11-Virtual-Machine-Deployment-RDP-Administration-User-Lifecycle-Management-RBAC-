@@ -33,17 +33,17 @@ The project focuses on real-world system administration tasks including VM provi
 
 ## 🎯 Project Objectives
 
-| Task | Description | Status |
-|------|-------------|--------|
-| **1** | Create Azure Resource Group (TSResGroup) | ✅ Completed |
-| **2** | Deploy Windows 11 VM (TS-PC1) | ✅ Completed |
-| **3** | Configure Remote Desktop (RDP) Access | ✅ Completed |
-| **4** | Create and Manage User Accounts | ✅ Completed |
-| **5** | Assign Administrative Privileges (RBAC) | ✅ Completed |
-| **6** | Troubleshoot Login & Access Issues | ✅ Completed |
-| **7** | Install Essential Software Tools | ✅ Completed |
-| **8** | User Password Reset & Offboarding | ✅ Completed |
-| **9** | Decommission Azure Resources | ✅ Completed |
+| Task | bjectives | 
+|------|-------------|
+| **1** | Create Azure Resource Group (TSResGroup) |
+| **2** | Deploy Windows 11 VM (TS-PC1) | 
+| **3** | Configure Remote Desktop (RDP) Access | 
+| **4** | Create and Manage User Accounts | 
+| **5** | Assign Administrative Privileges (RBAC) |
+| **6** | Troubleshoot Login & Access Issues | 
+| **7** | Install Essential Software Tools | 
+| **8** | User Password Reset & Offboarding | 
+| **9** | Decommission Azure Resources | 
 
 ---
 
