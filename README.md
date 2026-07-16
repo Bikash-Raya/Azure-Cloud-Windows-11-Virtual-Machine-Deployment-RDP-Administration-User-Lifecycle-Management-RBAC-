@@ -16,10 +16,17 @@
 
 ---
 
-**Completed by:** Bikash Raya  
-**Date:** Jul 2023  
+**Prepared by:** Bikash Raya
 
 </div>
+
+---
+
+## 📁 Full Lab Walkthrough — Proof of Work
+
+| File | Description |
+| --- | --- |
+| [Azure-VM-Deployment-Administration-BikashRaya.pdf](./Azure-VM-Deployment-Administration-BikashRaya.pdf) | Hands-on lab walkthrough with screenshots |
 
 ---
 
@@ -111,20 +118,22 @@ Installed using Ninite:
 
 ---
 
-## 📁 Repository Structure
-
-| Folder | Description |
-|--------|-------------|
-| 📄 [project-report.pdf](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-/blob/main/Azure-VM-Deployment-Administration-BikashRaya.pdf.pdf) | Full detailed documentation |
-| 📄 README.md | Project overview and summary |
-
-
-
----
-
 ## 🎯 Key Takeaway
 
 > This project demonstrates real-world cloud administration and IT support operations, focusing on secure access control, system provisioning, and lifecycle management in a Microsoft Azure environment.
+
+---
+
+## 🔗 Related Projects
+
+> Part of the **Bikash Security Lab** series:
+> * [Azure IAM Security Lab](https://github.com/Bikash-Raya/azure-iam-security-lab)
+> * [Azure Cloud Environment — Identity & RBAC](https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-)
+> * [System Hardening Lab — Linux, Windows Server & AD](https://github.com/Bikash-Raya/system-hardening-lab-linux-windows-active-directory)
+
+---
+
+> 📄 Thanks for reading! For a full hands-on walkthrough of this lab with screenshots — [download the lab report here](./Azure-VM-Deployment-Administration-BikashRaya.pdf)
 
 ---
 
